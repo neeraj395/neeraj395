@@ -55,23 +55,19 @@ SNAKE GAME
 
 YORUNJA
 
-SUPER - MUSIC
-
-AND 
-
-LOT 
-
-MORE
+UPLIST 
 
 ### 🚀 Stats
 
-- Created my github account **{{ ACCOUNT_AGE }}** years ago.
-- Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories.
-- Own **{{ REPOSITORIES }}** repositories and **{{ GISTS }}** gists.
-- Pushed **{{ COMMITS }}** commits to github.
-- Opened **{{ ISSUES }}** issues.
-- Submitted **{{ PULL_REQUESTS }}** pull requests.
-- Received **{{ STARS }}** stars from github users.
+- Created my github account **{{ 0 }}** years ago.
+- Contributed to **{{ 40 }}** repositories.
+- Own **{{ 35 }}** repositories and **{{ 0 }}** gists.
+- Pushed **{{ 167  }}** commits to github.
+- Opened **{{ 10 }}** issues.
+- Submitted **{{ 29 }}** pull requests.
+- Received **{{  1 }}** stars from github users.
+
+THIS STATS UPDATED 27 SEPTEMBER 2021
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
@@ -99,6 +95,6 @@ MORE
 
 - 💬 Ask me about ... JAVASCRIPT , PYTHON , C + , HTML 
 - 📫 How to reach me: ...profreehoat@gmail.com
-- ⚡ Fun fact: ...I AM A DISCORD BOT DEVELOPER AND A GAME DEVELOPER TOO 
+- ⚡ Fun fact: ...I AM A STUDENT 
 -->
 
