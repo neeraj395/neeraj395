@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.JS VERISON 16 **
 
-- 🤝 I’m looking for help with SUPERMUSIC DISCORD BOT - STARTING AFTER ANYONE JOIN ME 
+- 🤝 I’m looking for help with nothing 
 
 - 💬 Ask me about **MySQL/MariaDB, Node.JS, HTML, JS**
 
