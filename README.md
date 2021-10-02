@@ -33,41 +33,27 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Neeraj395)
 
-### 🗣 Recent Activity
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 22nd, 2021, 2:48:32 PM (Indian Standard Time)
-<!--RECENT_ACTIVITY:last_update_end-->
-<!--RECENT_ACTIVITY:start-->
-1. ![people] Became collaborator on [Neeraj000101/PuneetGopinath](https://github.com/Neeraj000101/PuneetGopinath)
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-<!--RECENT_ACTIVITY:end-->
+
 ### 🗄 My projects:
 
-SNAKE GAME
-
-YORUNJA
-
-UPLIST 
+IN MY REPOSITORES LIST !
 
 ### 🚀 Stats
 
-- Created my github account **{{ 0 }}** years ago.
-- Contributed to **{{ 40 }}** repositories.
-- Own **{{ 35 }}** repositories and **{{ 0 }}** gists.
-- Pushed **{{ 167  }}** commits to github.
-- Opened **{{ 10 }}** issues.
-- Submitted **{{ 29 }}** pull requests.
-- Received **{{  1 }}** stars from github users.
+- Created my github account  0  years ago.
+- Contributed to 49 repositories.
+- Own  38 repositories and  0 gists.
+- Pushed  167  commits to github.
+- Opened  10  issues.
+- Submitted  29 pull requests.
+- Received   1  stars from github users.
 
-THIS STATS UPDATED 27 SEPTEMBER 2021
+NOTE - THIS STATS LISTED ABOVE AS 🚀 Stats ARE MANUALLY UPDATED EVERY 1 - 2 WEEKS BY @neeraj395
+
+THIS STATS= 🚀 Stats ARE UPDATED BY @neeraj395 AT
+TIME-21.56 PM 
+DATE-02-19-2021
+DAY-SATURDAY 
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
