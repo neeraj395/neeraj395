@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SNAKE GAME](https://github.com/neeraj395/SNAKE-GAME)
 
-- 🌱 I’m currently learning **Node.JS VERISON 16 **
+- 🌱 I’m currently learning **EJS**
 
 - 🤝 I’m looking for help with nothing 
 
