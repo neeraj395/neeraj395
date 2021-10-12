@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/neeraj000004" target="blank"><img src="https://img.shields.io/twitter/follow/neeraj000004?logo=twitter&style=for-the-badge" alt="neeraj000004" /></a> </p>
 
-- 🔭 I’m currently working on [SNAKE GAME](https://github.com/neeraj395/SNAKE-GAME)
+- 🔭 I’m currently working on [CLICK TO SEE ✔️](https://github.com/neeraj395)
 
 - 🌱 I’m currently learning **EJS**
 
@@ -15,7 +15,14 @@
 
 - 💬 Ask me about **MySQL/MariaDB, Node.JS, HTML, JS**
 
-- 📫 How to reach me **profreehoat@gmail.com**
+- 📫 How to reach me 
+ 
+ **INSTRAGAM** [CLICK TO SEE ✔️](https://www.instagram.com/neeraj0000004/)
+ **TWITTER** [CLICK TO SEE ✔️](https://twitter.com/Neeraj000004)
+ **DISCORD** ID - Neeraj#0001
+ **MAIL** - neerajicloud001@gmail.com,profreehoat@gmail.com,yorunjadev@gmail.com
+ **PORT-118,384
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
