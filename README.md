@@ -21,7 +21,8 @@
  **TWITTER** [CLICK TO SEE ✔️](https://twitter.com/Neeraj000004)
  **DISCORD** ID - Neeraj#0001
  **MAIL** - neerajicloud001@gmail.com,profreehoat@gmail.com,yorunjadev@gmail.com
- **PORT-118,384
+ **PING FOR FASTER  **
+ **ONLY 1 PING NO SEVERAL PINGS .....**
 
 
 <h3 align="left">Connect with me:</h3>
