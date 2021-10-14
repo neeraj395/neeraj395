@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [CLICK TO SEE ✔️](https://github.com/neeraj395)
 
-- 🌱 I’m currently learning **EJS**
+- 🌱 I’m currently learning **ADVANCDED REACT NATIVE**
 
 - 🤝 I’m looking for help with nothing 
 
