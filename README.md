@@ -53,20 +53,7 @@ IN MY REPOSITORES LIST !
 
 ### 🚀 Stats
 
-- Created my github account  0  years ago.
-- Contributed to 49 repositories.
-- Own  38 repositories and  0 gists.
-- Pushed  167  commits to github.
-- Opened  10  issues.
-- Submitted  29 pull requests.
-- Received   1  stars from github users.
-
-NOTE - THIS STATS LISTED ABOVE AS 🚀 Stats ARE MANUALLY UPDATED EVERY 1 - 2 WEEKS BY @neeraj395
-
-THIS STATS= 🚀 Stats ARE UPDATED BY @neeraj395 AT
-TIME-21.56 PM 
-DATE-02-19-2021
-DAY-SATURDAY 
+#404 ERROR BLASTED THIS STATS ARE NOT WORKING TRY AGAIN LATER .
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
@@ -88,12 +75,4 @@ DAY-SATURDAY
 [fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
 [people]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg
 
-<!--
-**PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 💬 Ask me about ... JAVASCRIPT , PYTHON , C + , HTML 
-- 📫 How to reach me: ...profreehoat@gmail.com
-- ⚡ Fun fact: ...I AM A STUDENT 
--->
 
