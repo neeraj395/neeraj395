@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with nothing 
 
-- 💬 Ask me about **MySQL/MariaDB, Node.JS, HTML, JS**
+- 💬 Ask me about **CSS, HTML, JS**
 
 - 📫 How to reach me 
  
